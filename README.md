@@ -1,3 +1,9 @@
+# Obsidian Chrome Extension
+
+Create a markdown file using a Chrome extension given file name and tags.
+
+New file contains YAML-style properties such as created dates, tags, source(curretn chrome url).
+
 # Install dependencise
 
 1. `pip install -r requirements.txt`
