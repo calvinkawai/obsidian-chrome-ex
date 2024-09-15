@@ -17,3 +17,15 @@ New file contains YAML-style properties such as created date, tags, source(curre
 # Run backend
 
 `fastapi run backend`
+
+
+# Demo
+
+Create new note
+
+![Screenshot 2024-09-15 at 12 14 07 AM](https://github.com/user-attachments/assets/95e5dc78-7fac-425b-8d78-0747138d75bf)
+
+
+New note
+
+![Screenshot 2024-09-15 at 12 15 56 AM](https://github.com/user-attachments/assets/b674dc5c-71cc-48b3-872b-5c5523440237)
