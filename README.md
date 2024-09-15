@@ -2,7 +2,7 @@
 
 Create a markdown file using a Chrome extension given file name and tags.
 
-New file contains YAML-style properties such as created dates, tags, source(curretn chrome url).
+New file contains YAML-style properties such as created date, tags, source(current chrome url).
 
 # Install dependencise
 
