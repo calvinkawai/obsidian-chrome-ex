@@ -1,0 +1,12 @@
+{
+  "name": "Obsidian Note Automate",
+  "description": "auto create markdown note with default template",
+  "version": "1.1",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "action": {
+    "default_title": "Obsidian Note Automate",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}

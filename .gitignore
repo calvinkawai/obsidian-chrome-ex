@@ -1,0 +1,7 @@
+.venv
+.env
+.DS_Store
+pyrightconfig.json
+backend/__pycache__
+backend/.sesskey
+backend/_app.py
