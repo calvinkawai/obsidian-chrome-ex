@@ -23,8 +23,7 @@ New file contains YAML-style properties such as created date, tags, source(curre
 
 Create new note
 
-![Screenshot 2024-09-15 at 12 14 07 AM](https://github.com/user-attachments/assets/95e5dc78-7fac-425b-8d78-0747138d75bf)
-
+![Screenshot 2024-09-15 at 12 13 41 AM](https://github.com/user-attachments/assets/aa215adb-17cd-4316-bd5f-95f72449d5be)
 
 New note
 
