@@ -1,5 +1,5 @@
 #!/bin/zsh
+VENV_DIR=.venv
 
 run:
-	source ".venv/bin/activate"
-	fastapi run backend
+	$(VENV_DIR)/bin/python -m fastapi run backend --reload
