@@ -13,7 +13,7 @@ async function createTags() {
     url: tab.url,
   });
 
-  await fetch("http://127.0.0.1:8000/create", {
+  await fetch("http://127.0.0.1:8090/create", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

@@ -1,5 +1,5 @@
-SHELL = /bin/zsh
-ENV_PREFIX=.venv/bin/
+#!/bin/zsh
 
 run:
-	$(ENV_PREFIX)python -m home_page
+	source ".venv/bin/activate"
+	fastapi run backend

@@ -30,7 +30,7 @@ New file contains YAML-style properties such as created date, tags, source(curre
 3. Run the backend:
 
    ```bash
-   fastapi run backend
+   make run
    ```
 
 ## Demo
